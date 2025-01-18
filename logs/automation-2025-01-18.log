@@ -1,0 +1,2 @@
+15:51:46.725 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [/Users/user/eclipse-workspace/OpencartV121/master.xml] otherwise TestNG may fail or not work as expected.
+15:54:55.043 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****

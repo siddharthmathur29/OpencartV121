@@ -1,0 +1,15 @@
+15:54:01.992 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+15:55:38.914 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [/Users/user/eclipse-workspace/OpencartV121/master.xml] otherwise TestNG may fail or not work as expected.
+15:55:47.102 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_TC001_AccountRegistrationTest ***
+15:55:52.191 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MYAccount Link
+15:55:58.394 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+15:55:58.397 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+15:56:07.675 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+15:56:07.720 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Finished TC001_TC001_AccountRegistrationTest ***
+15:56:15.288 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+16:05:09.571 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [/Users/user/eclipse-workspace/OpencartV121/master.xml] otherwise TestNG may fail or not work as expected.
+16:05:18.653 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_TC001_AccountRegistrationTest ***
+16:05:23.749 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MYAccount Link
+16:05:29.369 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+16:05:29.372 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+16:05:47.588 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
